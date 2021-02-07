@@ -8,7 +8,7 @@ var bg
 
 function preload(){
 
-bg=loadImage("sprites/bg.png")
+bg=loadImage("bg.png")
 
 
 
